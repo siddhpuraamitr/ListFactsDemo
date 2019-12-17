@@ -1,0 +1,21 @@
+
+P
+ app/src/main/AndroidManifest.xml,8\c\8c55c3ccc257e5907959013f99656e4c8ec3903e
+n
+>app/src/main/java/com/siddhpuraamitr/androiddemo/model/Rows.kt,f\1\f11e97d39ef3ffa1f33d525cbb0b271b992147a0
+|
+Lapp/src/main/java/com/siddhpuraamitr/androiddemo/service/RetrofitInstance.kt,0\d\0dd4c961cfdb051ec0669d29e13dce7ad9900c27
+n
+>app/src/main/java/com/siddhpuraamitr/androiddemo/model/Fact.kt,0\4\04590942e4c8e0b031668e796137bfe953ad456a
+ƒ
+Sapp/src/main/java/com/siddhpuraamitr/androiddemo/viewmodel/MainActivityViewModel.kt,3\4\34347219d1a3a12e3ea0314721ffcf5705873aba
+u
+Eapp/src/main/java/com/siddhpuraamitr/androiddemo/view/MainActivity.kt,b\8\b8ac64e09aa192e7b324877560a311a5339a7c00
+@
+app/build.gradle,f\4\f4a01d6a4fcb971362ec00a83903fd3902f52164
+z
+Japp/src/main/java/com/siddhpuraamitr/androiddemo/service/GetFactService.kt,9\e\9e4bb85199c38e3f8577cf93ca9821dd8130b5f5
+x
+Happ/src/main/java/com/siddhpuraamitr/androiddemo/model/FactRepository.kt,1\d\1d812d07533f44e20e763bc17bacb1f609916466
+x
+Happ/src/main/java/com/siddhpuraamitr/androiddemo/adapter/FactsAdapter.kt,0\e\0ed206554256db746f425c2d94a5f543ee985ce8
